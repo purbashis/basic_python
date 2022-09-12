@@ -25,3 +25,11 @@ myDict={
 print(myDict["purbashis"])
 print(myDict["list"])
 print(myDict["anotherdict"]['plugin'])
+
+''' it is un_ordered.
+it is indexed.
+it is mutable.
+cannnot contain duplicate keys.
+
+
+'''
